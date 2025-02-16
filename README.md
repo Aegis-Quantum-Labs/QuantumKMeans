@@ -1,6 +1,6 @@
 # QuantumInspiredKMeans
 
-QuantumInspiredKMeans is an open source Python project that implements a quantum-inspired version of the k-means clustering algorithm. This project leverages quantum concepts—such as randomness reminiscent of quantum superposition—for initialization and probabilistic assignments, enhancing classical clustering methods.
+QuantumInspiredKMeans is an open source Python project that implements a quantum-inspired version of the k-means clustering algorithm. This project leverages quantum concepts, such as randomness reminiscent of quantum superposition, for initialization and probabilistic assignments, enhancing classical clustering methods.
 
 ## Features
 - **Quantum-inspired Initialization:** Uses randomness similar to quantum state superposition for initial centroid selection.
@@ -13,7 +13,7 @@ QuantumInspiredKMeans is an open source Python project that implements a quantum
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/QuantumInspiredKMeans.git
+git clone https://github.com/Aegis-Quantum-Labs/QuantumInspiredKMeans.git
 cd QuantumInspiredKMeans
 pip install -r requirements.txt
 ```
